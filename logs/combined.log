@@ -1,0 +1,4 @@
+{"level":"info","message":"Sunucu 5678 portunda çalışıyor","timestamp":"2025-04-20T11:22:22.735Z"}
+{"level":"info","message":"Webhook isteği https://discord.com/api/v10/webhooks/1363461053945610350/u_sL3NPGR3ZeiKvBd3lA7QwF9q9yGFwjgz7K0p2weIBBOw5CywpgJSVqsRCIFhVlZtMp adresine iletiliyor","timestamp":"2025-04-20T11:22:33.334Z"}
+{"level":"info","message":"Webhook başarıyla iletildi, Discord 204 durum koduyla yanıt verdi","timestamp":"2025-04-20T11:22:33.575Z"}
+{"level":"info","message":"::1 - - [20/Apr/2025:11:22:33 +0000] \"POST /api/webhook/1363461053945610350/u_sL3NPGR3ZeiKvBd3lA7QwF9q9yGFwjgz7K0p2weIBBOw5CywpgJSVqsRCIFhVlZtMp HTTP/1.1\" 204 - \"-\" \"PostmanRuntime/7.43.3\"","timestamp":"2025-04-20T11:22:33.584Z"}
