@@ -18,9 +18,9 @@ FoxDiscoAPI, Discord'un API'sine webhook isteklerini yönlendirmek için tasarla
 
 ### Kurulum
 
-1. Depoyu klonlayın
+1. Repoyu klonlayın
    ```bash
-   git clone https://github.com/apcu01/foxdisco-api.git
+   git clone https://github.com/Apcu01/FoxDiscoAPI.git
    cd foxdisco-api
    ```
 
